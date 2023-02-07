@@ -120,7 +120,7 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-2dq6rw::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://github.com/LuisGabrielIVNazareno/Working/blob/ec8816243aacf7f2b5886cbaf73ec94603415e15/image.svg");
+  -webkit-mask-image: url("https://github.com/LuisGabrielIVNazareno/Working/image(1).svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
